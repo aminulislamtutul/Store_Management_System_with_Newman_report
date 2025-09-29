@@ -36,7 +36,3 @@ This project demonstrates API testing using Postman, providing a collection of t
      ```console 
       npm install -g newman-reporter-htmlextra
     ```
-### **Usage**
-
-  
-
