@@ -30,7 +30,7 @@ This project demonstrates API testing using Postman, providing a collection of t
 5. Newman and Report Installation Process:
    - Newman Install Command:
    ```console 
-   npm install -g newman
+    npm install -g newman
    ```
 
   
