@@ -10,3 +10,6 @@ This project demonstrates API testing using Postman, providing a collection of t
 ### **Technology Used**
 - Postman
 - Newman
+### **Prerequisite**
+- Node.js
+
