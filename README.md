@@ -15,4 +15,5 @@ This project demonstrates API testing using Postman, providing a collection of t
 - Newman
 - Newman html Report Library
 ### **Installation**
+1. Postman: If you haven't already, [download and install Postman.](https://www.postman.com/downloads/)
 
