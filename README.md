@@ -7,3 +7,4 @@ This project demonstrates API testing using Postman, providing a collection of t
 - Pre-request scripts for data setup
 - Test scripts for assertions and validations
 ## API Documentation
+### **Technology Used**
