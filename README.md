@@ -14,4 +14,5 @@ This project demonstrates API testing using Postman, providing a collection of t
 - Node.js
 - Newman
 - Newman html Report Library
+### **Installation**
 
