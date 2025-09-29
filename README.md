@@ -24,8 +24,11 @@ This project demonstrates API testing using Postman, providing a collection of t
    - Open Postman.
    - Click on the Import button.
    - Select the file from the repository.
-5. Import the Postman environment:
+4. Import the Postman environment:
    - In Postman, click on the gear icon in the top right corner.
    - Select **Import** and choose the file.
+5. Newman and Report Installation Process:
+   - Newman Install Command:
+
   
 
