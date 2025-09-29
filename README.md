@@ -27,4 +27,13 @@ This project demonstrates API testing using Postman, providing a collection of t
 4. Import the Postman environment:
    - In Postman, click on the gear icon in the top right corner.
    - Select **Import** and choose the file.
+5. Newman and Report Installation Process:
+   - Newman Install Command:
+     ```console 
+      npm install -g newman
+     ```
+   - Newman html Report Install Command:
+     ```console 
+      npm install -g newman-reporter-htmlextra
+    ```
 
