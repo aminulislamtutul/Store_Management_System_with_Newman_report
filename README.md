@@ -20,4 +20,5 @@ This project demonstrates API testing using Postman, providing a collection of t
  ```console 
   git clone https://github.com/aminulislamtutul/Store_Management_System_with_Newman_report.git
 ```
+3. Import the Postman collection:
 
