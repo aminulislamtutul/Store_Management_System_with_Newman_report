@@ -24,4 +24,6 @@ This project demonstrates API testing using Postman, providing a collection of t
 - Open Postman.
 - Click on the Import button.
 - Select the file from the repository.
+4. Import the Postman environment:
+  
 
