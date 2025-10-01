@@ -37,4 +37,6 @@ This project demonstrates API testing using Postman, providing a collection of t
       npm install -g newman-reporter-htmlextra
      ```
 ### **Usage**
+1. Select Environment:
+    - In Postman, select the appropriate environment (e.g., Development, Production) from the top-right dropdown.
 
