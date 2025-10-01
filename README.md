@@ -44,5 +44,8 @@ This project demonstrates API testing using Postman, providing a collection of t
     - Click on the Runner button to open the collection runner.
     - Select the desired environment.
     - Click Start Test to run the collection.
+3. View Results:
+    - Once the tests are complete, view the results in the Runner tab.
+    - Detailed test results can be viewed for each request.
    
 
