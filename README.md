@@ -52,5 +52,9 @@ This project demonstrates API testing using Postman, providing a collection of t
 ```console
 newman run Store_Management_System_Collections.postman_collection.json -e Store_Management_System_Environment.postman_environment.json
 ```
+- Run Command for Report: 
+```console
+newman run Store_Management_System_Collections.postman_collection.json -e Store_Management_System_Environment.postman_environment.json -r cli,htmlextra
+```
    
 
