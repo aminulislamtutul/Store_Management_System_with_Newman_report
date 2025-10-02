@@ -47,5 +47,6 @@ This project demonstrates API testing using Postman, providing a collection of t
 3. View Results:
     - Once the tests are complete, view the results in the Runner tab.
     - Detailed test results can be viewed for each request.
+## Run Command:  
    
 
