@@ -57,5 +57,14 @@ newman run Store_Management_System_Collections.postman_collection.json -e Store_
 newman run Store_Management_System_Collections.postman_collection.json -e Store_Management_System_Environment.postman_environment.json -r cli,htmlextra
 ```
 ## Newman Report Summary:
+
+<img width="829" height="424" alt="Screenshot 2025-09-29 234746" src="https://github.com/user-attachments/assets/46c5a597-b60d-4cc2-8e60-4c6d3e7fd154" />
+<img width="831" height="369" alt="Screenshot 2025-09-29 234844" src="https://github.com/user-attachments/assets/a4cebcf4-0e25-44cd-92d4-ebf4da763a26" />
+<img width="831" height="205" alt="Screenshot 2025-09-29 234915" src="https://github.com/user-attachments/assets/f2507cb3-8351-460d-bce3-578da9b295c2" />
+<img width="830" height="205" alt="Screenshot 2025-09-29 234952" src="https://github.com/user-attachments/assets/4d43e07d-f8ee-458b-ac98-4d188e8fc127" />
+
+
+
+
    
 
