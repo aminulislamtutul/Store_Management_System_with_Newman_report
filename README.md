@@ -47,6 +47,10 @@ This project demonstrates API testing using Postman, providing a collection of t
 3. View Results:
     - Once the tests are complete, view the results in the Runner tab.
     - Detailed test results can be viewed for each request.
-## Run Command:  
+## Run Command: 
+- Run Command for Console:
+```console
+newman run Store_Management_System_Collections.postman_collection.json -e Store_Management_System_Environment.postman_environment.json
+```
    
 
