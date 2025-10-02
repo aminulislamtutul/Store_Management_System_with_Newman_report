@@ -56,5 +56,6 @@ newman run Store_Management_System_Collections.postman_collection.json -e Store_
 ```console
 newman run Store_Management_System_Collections.postman_collection.json -e Store_Management_System_Environment.postman_environment.json -r cli,htmlextra
 ```
+## Newman Report Summary:
    
 
